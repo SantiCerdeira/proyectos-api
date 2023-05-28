@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "645929b6639f211ca756e945"
+  },
+  "nombre": "Acme Inc.",
+  "foto": "https://example.com/acme.jpg",
+  "descripcion": "Empresa líder en la fabricación de productos de alta calidad."
+},{
+  "_id": {
+    "$oid": "645929be639f211ca756e946"
+  },
+  "nombre": "Empresa XYZ",
+  "foto": "https://example.com/xyz.jpg",
+  "descripcion": "Empresa de tecnología líder en el mercado."
+},{
+  "_id": {
+    "$oid": "64592aa4639f211ca756e947"
+  },
+  "nombre": "La Casa del Mueble",
+  "foto": "https://example.com/lacasadelmueble.jpg",
+  "descripcion": "Tienda de muebles de alta calidad con más de 20 años de experiencia."
+},{
+  "_id": {
+    "$oid": "64592ab4639f211ca756e948"
+  },
+  "nombre": "La Tiendita",
+  "foto": "https://example.com/latiendita.jpg",
+  "descripcion": "Pequeña tienda de alimentos en el centro de la ciudad."
+},{
+  "_id": {
+    "$oid": "64592abe639f211ca756e949"
+  },
+  "nombre": "La Ferretería",
+  "foto": "https://example.com/laferreteria.jpg",
+  "descripcion": "Ferretería con amplio surtido de herramientas y materiales de construcción."
+}]

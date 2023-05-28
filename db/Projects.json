@@ -1,0 +1,289 @@
+[{
+  "_id": {
+    "$oid": "64592b7b639f211ca756e94a"
+  },
+  "name": "Proyecto de comercio electrónico",
+  "description": "Una tienda en línea para vender productos de belleza",
+  "link": "https://github.com/mi-usuario/tienda-en-linea",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "React",
+    "Node.js",
+    "MongoDB"
+  ],
+  "section": "ecommerce",
+  "clientId": "645929b6639f211ca756e945"
+},{
+  "_id": {
+    "$oid": "64592b91639f211ca756e94b"
+  },
+  "name": "Sitio web para un hotel",
+  "description": "Un sitio web para un hotel con información sobre las habitaciones y las reservas",
+  "link": "https://github.com/mi-usuario/sitio-web-hotel",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap"
+  ],
+  "section": "landing",
+  "clientId": "645929be639f211ca756e946"
+},{
+  "_id": {
+    "$oid": "64592bb3639f211ca756e94c"
+  },
+  "name": "Juego de carreras",
+  "description": "Un juego de carreras en el que los jugadores compiten en diferentes pistas",
+  "link": "https://github.com/mi-usuario/juego-de-carreras",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Unity",
+    "C#"
+  ],
+  "section": "game",
+  "clientId": "645929be639f211ca756e946"
+},{
+  "_id": {
+    "$oid": "64592bcc639f211ca756e94d"
+  },
+  "name": "Aplicación de noticias",
+  "description": "Una aplicación móvil para leer noticias de diferentes fuentes",
+  "link": "https://github.com/mi-usuario/aplicacion-de-noticias",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "React Native",
+    "Node.js",
+    "MongoDB"
+  ],
+  "section": "mobile",
+  "clientId": "64592aa4639f211ca756e947"
+},{
+  "_id": {
+    "$oid": "64592be6639f211ca756e94e"
+  },
+  "name": "Plataforma de aprendizaje en línea",
+  "description": "Una plataforma para tomar cursos en línea sobre diferentes temas",
+  "link": "https://github.com/mi-usuario/plataforma-de-aprendizaje",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Django",
+    "Python",
+    "Bootstrap"
+  ],
+  "section": "webapp",
+  "clientId": "64592ab4639f211ca756e948"
+},{
+  "_id": {
+    "$oid": "64592c59639f211ca756e94f"
+  },
+  "name": "Red social para músicos",
+  "description": "Una red social donde los músicos pueden compartir su música y conectarse con otros músicos",
+  "link": "https://github.com/mi-usuario/red-social-musica",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "React",
+    "Node.js",
+    "MongoDB"
+  ],
+  "section": "webapp",
+  "clientId": "645929b6639f211ca756e945"
+},{
+  "_id": {
+    "$oid": "64592c7a639f211ca756e950"
+  },
+  "name": "Tienda en línea de ropa",
+  "description": "Una tienda en línea para comprar ropa de moda",
+  "link": "https://github.com/mi-usuario/tienda-en-linea-ropa",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Ruby on Rails",
+    "React",
+    "Stripe"
+  ],
+  "section": "ecommerce",
+  "clientId": "64592ab4639f211ca756e948"
+},{
+  "_id": {
+    "$oid": "64592c91639f211ca756e951"
+  },
+  "name": "Juego de estrategia en tiempo real",
+  "description": "Un juego de estrategia en tiempo real donde los jugadores compiten en un mundo virtual",
+  "link": "https://github.com/mi-usuario/juego-estrategia",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Unity",
+    "C#",
+    "Firebase"
+  ],
+  "section": "game",
+  "clientId": "64592abe639f211ca756e949"
+},{
+  "_id": {
+    "$oid": "64592cd6639f211ca756e952"
+  },
+  "name": "App de gestión de tareas",
+  "description": "Una aplicación para administrar tus tareas diarias",
+  "link": "https://github.com/mi-usuario/app-de-gestion-de-tareas",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "React",
+    "Node.js",
+    "MongoDB"
+  ],
+  "section": "webapp",
+  "clientId": "64592aa4639f211ca756e947"
+},{
+  "_id": {
+    "$oid": "64592d58639f211ca756e953"
+  },
+  "name": "Aplicación de carrito de compras",
+  "description": "Una aplicación para comprar productos en línea",
+  "link": "https://github.com/mi-usuario/carrito-de-compras",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "React Native",
+    "Firebase"
+  ],
+  "section": "mobile",
+  "clientId": "64592ab4639f211ca756e948"
+},{
+  "_id": {
+    "$oid": "64592d70639f211ca756e954"
+  },
+  "name": "Landing para empresa de tecnología",
+  "description": "Una landing page para promocionar los servicios de una empresa de tecnología",
+  "link": "https://github.com/mi-usuario/landing-tecnologia",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "React",
+    "Bootstrap",
+    "Node.js"
+  ],
+  "section": "landing",
+  "clientId": "64592abe639f211ca756e949"
+},{
+  "_id": {
+    "$oid": "64592ecbfddcf679f63baf3a"
+  },
+  "name": "Red social para mascotas",
+  "description": "Una red social donde los dueños de mascotas pueden compartir fotos y consejos",
+  "link": "https://github.com/mi-usuario/red-social-para-mascotas",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "React",
+    "Node.js",
+    "MongoDB"
+  ],
+  "section": "webapp",
+  "clientId": "645929be639f211ca756e946",
+  "deleted": true
+},{
+  "_id": {
+    "$oid": "64592eddfddcf679f63baf3b"
+  },
+  "name": "Sistema de gestión de tareas",
+  "description": "Una aplicación para administrar y organizar tareas personales y profesionales",
+  "link": "https://github.com/mi-usuario/sistema-de-gestion-de-tareas",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Angular",
+    "Firebase",
+    "Bootstrap"
+  ],
+  "section": "webapp",
+  "clientId": "64592abe639f211ca756e949"
+},{
+  "_id": {
+    "$oid": "64593084ef8d26a07f11dfb0"
+  },
+  "name": "Aplicación de entrega de comida a domicilio",
+  "description": "Una aplicación móvil para pedir comida de diferentes restaurantes y recibirla en casa.",
+  "link": "https://github.com/mi-usuario/entrega-comida-domicilio",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "React Native",
+    "Node.js",
+    "MongoDB"
+  ],
+  "section": "mobile",
+  "clientId": "64592ab4639f211ca756e948"
+},{
+  "_id": {
+    "$oid": "645930dbef8d26a07f11dfb1"
+  },
+  "name": "Landing page para una app de citas",
+  "description": "Una página de aterrizaje para una app de citas que busca revolucionar el mercado",
+  "link": "https://github.com/mi-usuario/landing-app-de-citas",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "React",
+    "Node.js",
+    "Bootstrap"
+  ],
+  "section": "landing",
+  "clientId": "645929b6639f211ca756e945"
+},{
+  "_id": {
+    "$oid": "645930fdef8d26a07f11dfb2"
+  },
+  "name": "Landing page para una tienda de ropa en línea",
+  "description": "Una landing page diseñada para atraer a nuevos clientes a una tienda de ropa en línea",
+  "link": "https://github.com/mi-usuario/landing-tienda-ropa",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "section": "landing",
+  "clientId": "64592aa4639f211ca756e947"
+},{
+  "_id": {
+    "$oid": "6459313fef8d26a07f11dfb3"
+  },
+  "name": "Tienda en línea de productos orgánicos",
+  "description": "Una tienda en línea para comprar productos orgánicos de la más alta calidad",
+  "link": "https://github.com/mi-usuario/tienda-en-linea",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "React",
+    "Redux",
+    "Stripe"
+  ],
+  "section": "ecommerce",
+  "clientId": "64592ab4639f211ca756e948"
+},{
+  "_id": {
+    "$oid": "64593254ef6e02f3a395b840"
+  },
+  "name": "Juego de aventura en 2D",
+  "description": "Un juego de aventuras en el que el jugador debe superar diferentes niveles y desafíos para completar la misión principal",
+  "link": "https://github.com/mi-usuario/juego-de-aventura",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Unity",
+    "C#",
+    "Photoshop"
+  ],
+  "section": "game",
+  "clientId": "645929be639f211ca756e946"
+},{
+  "_id": {
+    "$oid": "64593267ef6e02f3a395b841"
+  },
+  "name": "Juego de carreras en 3D",
+  "description": "Un juego de carreras en el que el jugador debe competir contra otros corredores y superar diferentes obstáculos para ganar",
+  "link": "https://github.com/mi-usuario/juego-de-carreras",
+  "img": "https://picsum.photos/400/225",
+  "technologies": [
+    "Unreal Engine",
+    "C++",
+    "3D Studio Max"
+  ],
+  "section": "game",
+  "clientId": "645929b6639f211ca756e945"
+}]
